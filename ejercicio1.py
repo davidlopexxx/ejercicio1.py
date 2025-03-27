@@ -1,3 +1,4 @@
 nombre= input("escribr tu nombre: ")
 apellido=input("escribe tu apellido: ")
-print (f"hola soy {nombre} {apellido} alumno de programacion")
+edad= input("escriba su edad: ")
+print (f"hola soy {nombre} {apellido}, tengo {edad} años y soy alumno de programacion")
